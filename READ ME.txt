@@ -1,0 +1,11 @@
+PLZ IGNORE THE CONSOLE !!
+
+Open ' calcutor.exe ' for calculator.
+Click on ' exit button ' for exit.
+Open ' main.py ' for code.
+
+
+NOTE :- Plz don't delete icon file.If you want to replace the icon 
+you need to paste a icon in this folder and change the file name to c_icon.
+
+"THANK YOU"
